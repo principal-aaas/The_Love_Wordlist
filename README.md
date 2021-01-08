@@ -1,6 +1,6 @@
 # The_Love_Wordlist
 
-Steps include the below (10) separate Find & Replaces
+Steps to customize the list include the below (10) separate Find & Replaces
 
 Replace 'Jane'&'Doe' in the wordlist template with the name of your target's significant other with all the following case permutations:
 jane	first name: all lower.	
