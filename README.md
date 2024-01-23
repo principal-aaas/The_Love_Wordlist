@@ -4,9 +4,9 @@ Steps to customize the list include the below (10) separate Find & Replaces
 
 Replace 'Jane'&'Doe' in the wordlist template with the name of your target's significant other with all the following case permutations:
 jane	first name: all lower.	
-JANE	first name: all upper.	For example, if the first name of your target's girlfriend is Jill, Find all instances of 'JANE' & Replace with 'JILL'
+JANE	first name: all upper.	For example, if the first name of your target's girlfriend is Michelle, Find all instances of 'JANE' & Replace with 'MICHELLE'
 Jane	first name: first letter capitalized.	
-doe	  last name: all lower.	For example, if the last name of your target's girlfriend is Smith, Find all instances of 'doe' & Replace with 'smith'
+doe	  last name: all lower.	For example, if the last name of your target's girlfriend is McCarthy, Find all instances of 'doe' & Replace with 'mccarthy'
 DOE	  last name: all upper.	
 Doe	  last name: first letter capitalized.
 
